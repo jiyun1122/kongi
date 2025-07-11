@@ -28,7 +28,7 @@ export const Home = () => {
   },[isModalOpen]);
   return(
     <main className="text-base">
-      <section className="flex flex-wrap gap-8 justify-center">
+      <section className="flex flex-wrap gap-8 justify-center max-w-sm mx-auto">
         {kongData.map((album,index)=>(
           <Album key={index} album={album} onClick={()=>openModal(album)}/>
         ))}
