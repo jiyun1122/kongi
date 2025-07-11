@@ -20,7 +20,7 @@ export const Modal = ({ album, onClose }) => {
     // items-center, justify-center로 가운데 정렬  
     // z-50으로 다른 요소들보다 위에
     <div ref={overlayRef} onClick={onClickHandler} className="fixed inset-0 bg-black/80 flex items-center justify-center z-50"> 
-        <div className="relative bg-white rounded-lg p-6 shadow-lg">
+        <div className="relative bg-gradient-to-r from-amber-200 to-amber-300 rounded-lg p-6 shadow-lg">
             {/* 모달창 닫는 함수 */}
             <button
             onClick={onClose}

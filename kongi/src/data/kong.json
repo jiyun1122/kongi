@@ -1,41 +1,41 @@
 [
   {
-    "albumImage" : "/src/assets/kongi1.jpg",
+    "albumImage" : "/kongi1.jpg",
     "photoDate" : "2024-6-14",
     "likes" : "4",
     "age": "7",
     "id" : "1"
   },
    {
-    "albumImage" : "/src/assets/kongi2.jpg",
+    "albumImage" : "/kongi2.jpg",
     "photoDate" : "2024-5-18",
     "likes" : "78",
     "age": "7",
     "id": "2"
   },
    {
-    "albumImage" : "/src/assets/kongi3.jpg",
+    "albumImage" : "/kongi3.jpg",
     "photoDate" : "2024-3-24",
     "likes" : "23",
     "age": "8",
     "id": "3"
   },
    {
-    "albumImage" : "/src/assets/kongi4.jpg",
+    "albumImage" : "/kongi4.jpg",
     "photoDate" : "2024-8-17",
     "likes" : "24",
     "age": "8",
     "id": "4"
   },
     {
-    "albumImage" : "/src/assets/kongi5.jpg",
+    "albumImage" : "/kongi5.jpg",
     "photoDate" : "2025-1-17",
     "likes" : "13",
     "age": "8",
     "id": "5"
   },
     {
-    "albumImage" : "/src/assets/kongi6.jpg",
+    "albumImage" : "/kongi6.jpg",
     "photoDate" : "2025-4-3",
     "likes" : "179",
     "age": "8",
